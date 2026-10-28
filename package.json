@@ -7,7 +7,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "start": "json-server-auth db.json --watch --port 5005"
+    "start": "node index.js"
   },
   "dependencies": {
     "json-server": "^0.17.4",
