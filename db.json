@@ -470,39 +470,29 @@
   ],
   "users": [
     {
-      "email": "buhussienx@gmail.com",
-      "password": "$2a$10$mkuYqi2CAsM5QONRW31F9uJIQU0dl./qpuXDHpBD/7ZasJDBa/3gq",
+      "email": "super_admin@gmail.com",
+      "password": "$2a$10$Cij0L9zUXsj4ReBlz.hxE.o2xN1.bpUsJwsZ0gvyiqpjeoUr01V4.",
       "firstname": "Ahmed",
-      "lastname": "Abuhussein",
-      "confirmPassword": "",
+      "lastname": "esam",
+      "confirmPassword": "super_admin",
       "role": "greatAdmin",
       "id": 1
     },
     {
-      "email": "nour@gmail.com",
-      "password": "$2a$10$hpGIzMAPNqw9xJXzMnI.VO4aRpl9wrMi.d2bDiFp/qs7cEzbFDs0G",
-      "firstname": "nouwara",
+      "email": "admin@gmail.com",
+      "password": "$2a$10$bqwgp0vJqAvo/sKy./oh5OE4speX.0qvU7Nb9bMIbEHFqd3U.Z5Sm",
+      "firstname": "nour",
       "lastname": "esam",
-      "confirmPassword": "",
+      "confirmPassword": "admin.admin",
       "role": "admin",
       "id": 2
     },
     {
-      "email": "hamza@gmail.com",
-      "password": "$2a$10$p9YOk5z1um6WzACpKrq3Be13E02kSrD9uF1r42KPVlr79LJG9AO1K",
-      "firstname": "hamoza",
-      "lastname": "esam",
-      "confirmPassword": "",
-      "role": "user",
-      "id": 3,
-      "identifier": "buhussien2"
-    },
-    {
-      "email": "john.doe@example.com",
-      "password": "$2a$10$kiQ/2ps3cZUPtwoPQ5mRdeiJmItlc40GWh/GMuw6KKlfRxuJQ/66W",
-      "firstname": "John",
-      "lastname": "Doe",
-      "confirmPassword": "john.doe",
+      "email": "user@gmail.com",
+      "password": "$2a$10$Mrbf4gwI6J1yzFWApcopsOsAEHFfJf.rsOyjdc5/fJ9R92vDf245K",
+      "firstname": "user",
+      "lastname": "user",
+      "confirmPassword": "user.user",
       "role": "user",
       "id": 4
     }
